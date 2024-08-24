@@ -5,3 +5,5 @@ Welcome to my portfolio website! This is a personal website where I showcase som
 ## How to run
 - download the repo files
 - open the index.html file with a browser
+
+![](port_screenshot.JPG)
